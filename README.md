@@ -1,4 +1,4 @@
-<h2> નમસ્તે, કેમ છો? <img src="https://github.com/RonakPandya072/RonakPandya072/blob/main/giphy.gif" width="60"></h2>
+<h2> નમસ્તે, કેમ છો? <img src="https://github.com/RonakPandya072/RonakPandya072/blob/main/giphy.gif" width="60"> I'm Ronak Pandya</h2>
 
 <p><em>Data Science student at <a href="https://new.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html">Indian Institute of Technology, Roorkee</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em><br>
