@@ -14,19 +14,19 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 ```javascript
-Ronak = RonakPandya('Techie', 'Data Science Enthusiast', 'Petroleum Engineer')
+>>> Ronak = RonakPandya('Techie', 'Data Science Enthusiast', 'Petroleum Engineer')
 
-print(Ronak.currentLocation)
->>'Roorkee, India'
+>>> print(Ronak.currentLocation)
+'Roorkee, India'
 
-print(Ronak.mailInfo)
->>['ronak_p@mfs.iitr.ac.in', 'ronakpandya24699@gmail.com']
+>>> print(Ronak.mailInfo)
+['ronak_p@mfs.iitr.ac.in', 'ronakpandya24699@gmail.com']
 
-print(Ronak.Interest)
->>['Painting', 'Travelling', 'Model building', 'Coding']
+>>> print(Ronak.Interest)
+['Painting', 'Travelling', 'Model building', 'Coding']
 
-print(Ronak.newbie)
->>[['python','R'], ['HTML','CSS'], ['Machine learning', 'Deep learning', 'Time Series', 
+>>> print(Ronak.newbie)
+[['python','R'], ['Tablue','Excel', 'MySQL'], ['Machine learning', 'Deep learning', 'Time Series', 
 'Image Processing'], ['Tensorflow', 'keras', 'pytorch', 'Numpy', 'Pandas', 'sklearn']]
 ```
 
