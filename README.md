@@ -20,7 +20,7 @@
 'Roorkee, India'
 
 >>> print(Ronak.mailInfo)
-['ronak_p@mfs.iitr.ac.in', 'ronakpandya24699@gmail.com']
+['ronakpandya24699@gmail.com']
 
 >>> print(Ronak.Interest)
 ['Painting', 'Travelling', 'Model building', 'Coding']
